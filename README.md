@@ -1,4 +1,4 @@
-# 🎵 Spotify Queue Simulation
+# 🎵 *Spotify Queue Simulation*
 
 Este proyecto es una simulación de reproducción musical estilo Spotify. Está construido con una arquitectura modular en Java usando Maven, implementando una estructura de datos de Cola (FIFO) 
 completamente desde cero, sin depender de las colecciones nativas del JDK.
