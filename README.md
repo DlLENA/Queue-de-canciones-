@@ -3,7 +3,7 @@
 Este proyecto es una simulación de reproducción musical estilo Spotify. Está construido con una arquitectura modular en Java usando Maven, implementando una estructura de datos de Cola (FIFO) 
 completamente desde cero, sin depender de las colecciones nativas del JDK.
 
-## 🚀 Cómo compilar e instalar la librería localmente
+## 🚀*** Cómo compilar e instalar la librería localmente ***
 
 1. Abre tu terminal de comandos.
 2. Navega a la raíz de la carpeta de la librería: `cd umg.edu.gt.data-structure.queue`
